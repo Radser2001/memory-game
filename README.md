@@ -6,7 +6,6 @@ Simple game made in JavaScript, HTML and CSS
 
 ## Rules of Memory Game
 
----
 - Start by flipping over one card
 - If the next card you flip matches, a pop up alert notifies you
 - These cards then disappear 
