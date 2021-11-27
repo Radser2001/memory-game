@@ -1,6 +1,5 @@
 # Memory Game
 
----
 Simple game made in JavaScript, HTML and CSS
 
 [![memory-game.png](https://i.postimg.cc/WzV5T07R/memory-game.png)](https://postimg.cc/DJCrcJD5)
